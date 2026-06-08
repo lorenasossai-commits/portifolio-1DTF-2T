@@ -1,0 +1,2 @@
+# portifolio-1DTF-2T
+Projeto desenvolvido no Colegio Estadual Dr Gastao Vidigal, na truma do 1DTFem 2026. esse portifolio tem como objetivo descrever a utilidade e a função de cada código do HTML, CSS e JS. As imagens, vídeos aqui usados, foram retirados. 
